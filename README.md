@@ -1,5 +1,5 @@
 # Cold-Call-Prediction
-Logistic Regression on Car Insurance Data
+Logistic Regression Analysis
 
 First, use data_clean.py to clean carInsurance_train.csv.
 Then, run the cold_call_analysis.R
